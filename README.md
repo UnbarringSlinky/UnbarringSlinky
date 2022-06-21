@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnbarringSlinky
 - 👀 I’m interested in ... Software simulations and Embedded Systems
-- 🌱 I’m currently learning ... SQL and Digital Logic and Computer Design
+- 🌱 I’m currently learning ... Solutions Architecture and AWS
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... Discord: UnbarringSlinky#1094
 
